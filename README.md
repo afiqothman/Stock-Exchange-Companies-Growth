@@ -4,7 +4,7 @@
 
 2. Aim: To find top performance companies in health care equipment based on growth rate metric.
 
-3. Result of analysis are visualized on Tableau. The result can be seen at: (https://public.tableau.com/views/NewYorkStockHealthCareEquipmentIndustryCompaniesGrowthforYear2012-2016/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+3. Result of analysis are visualized on Tableau. The result can be seen at: https://tinyurl.com/nysegrowthrate 
 
 4. Dataset Glossary
 
